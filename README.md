@@ -1,6 +1,6 @@
 # React Weather App
 <h2>
-This is a web app developed as an assignment of the company "Stammurai" from Internshala. It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the Weather API.
+This is a web app developed. It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the Weather API.
 </h2>
 
 # Features
